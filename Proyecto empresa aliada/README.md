@@ -1,5 +1,5 @@
 # Proyecto empresa aliada
-En esta carpeta se encuentra todo el proceso que se llevoa  acabo para poder completar al analisis y predicción de ventas de la empresa "Reckitt", en especial analizando las ventas futuras para las marcas de Vanish y Lysol.
+En esta carpeta se encuentra todo el proceso que se llevo a cabo para poder completar al analisis y predicción de ventas de la empresa "Reckitt", en especial analizando las ventas futuras para las marcas de Vanish y Lysol.
 
 El análisis abarca desde la extracción de datos de ventas hasta la identificación de patrones de consumo regional y por categoría de producto.
 
